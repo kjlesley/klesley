@@ -1,0 +1,66 @@
+{
+  "id" : "https://kjlesley.github.io/klesley/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in kjlesley/klesley project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3264,
+    "id" : "https://kjlesley.github.io/klesley/images/IMG_8143/canvas/",
+    "label" : {
+      "none" : [ "IMG_8143" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://kjlesley.github.io/klesley/images/IMG_8143/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://kjlesley.github.io/klesley/images/IMG_8143/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 102,
+              "height" : 77
+            }, {
+              "width" : 204,
+              "height" : 153
+            }, {
+              "width" : 408,
+              "height" : 306
+            }, {
+              "width" : 816,
+              "height" : 612
+            }, {
+              "width" : 1632,
+              "height" : 1224
+            }, {
+              "width" : 3264,
+              "height" : 2448
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3264,
+            "@id" : "https://kjlesley.github.io/klesley/images/IMG_8143",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2448
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3264,
+          "id" : "https://kjlesley.github.io/klesley/images/IMG_8143/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2448
+        },
+        "target" : "https://kjlesley.github.io/klesley/images/IMG_8143/canvas/"
+      } ]
+    } ],
+    "height" : 2448
+  } ]
+}
