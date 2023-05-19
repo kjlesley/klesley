@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://kjlesley.github.io/klesley/manifests/manifest2.json",
     "label" : "Rock Climbing"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kjlesley.github.io/klesley/manifests/manifest3.json",
+    "label" : "Rock Climbing"
   } ]
 }
