@@ -1,0 +1,13 @@
+{
+  "id" : "https://kjlesley.github.io/klesley/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in kjlesley/klesley project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kjlesley.github.io/klesley/manifests/manifest2.json",
+    "label" : "Rock Climbing"
+  } ]
+}
