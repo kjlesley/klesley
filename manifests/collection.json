@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kjlesley.github.io/klesley/manifests/manifest2.json",
+    "label" : "Rock Climbing"
+  } ]
 }
