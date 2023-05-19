@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://kjlesley.github.io/klesley/annotations/37207eb12954a47542eb9f2afc54667b.json" ],
+  "@id" : "https://kjlesley.github.io/klesley/annotations/collection.json",
+  "label" : "All annotations loaded in kjlesley/klesley project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
